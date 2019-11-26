@@ -69,8 +69,8 @@ According to the availability of the whole or partial original undistorted image
 
 **Databases**
 * [[LIVE Database]](https://live.ece.utexas.edu/research/Quality/subjective.htm)
-* [[CSIQ Database]]()
-* [[TID2008 Database]]()
-* [[TID2013 Database]]()
+* [[CSIQ Database]](http://vision.eng.shizuoka.ac.jp/mod/page/view.php?id=23)
+* [[TID2008 Database]](http://www.ponomarenko.info/tid2008.htm)
+* [[TID2013 Database]](http://www.ponomarenko.info/tid2013.htm)
 
 
