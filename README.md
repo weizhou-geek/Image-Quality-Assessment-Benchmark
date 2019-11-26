@@ -1,5 +1,5 @@
 # Image-Quality-Assessment-Benchmark
-A list of state-of-the-art image quality assessment algorithms collected by [Wei Zhou](http://home.ustc.edu.cn/~weichou). If you find that important resources are not included, please feel free to contact me.
+A list of state-of-the-art image quality assessment algorithms and databases collected by [Wei Zhou](http://home.ustc.edu.cn/~weichou). If you find that important resources are not included, please feel free to contact me.
 
 According to the availability of the whole or partial original undistorted image (often called reference image), image quality assessment (IQA) algorithms are typically divided into three categories as follows: 1) full-reference IQA (FR-IQA), 2) reduced-reference IQA (RR-IQA), and 3) no-reference IQA (NR-IQA).
 
@@ -68,3 +68,9 @@ According to the availability of the whole or partial original undistorted image
 * dipIQ: Blind Image Quality Assessment by Learning-to-Rank Discriminable Image Pairs (), IEEE TIP, 2017, Ma K et al. [[PDF]]() [[Code]]()
 
 **Databases**
+* [[LIVE Database]](https://live.ece.utexas.edu/research/Quality/subjective.htm)
+* [[CSIQ Database]]()
+* [[TID2008 Database]]()
+* [[TID2013 Database]]()
+
+
