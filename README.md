@@ -38,6 +38,7 @@ According to the availability of the whole or partial original undistorted image
 * Blind Image Quality Estimation via Distortion Aggravation (BMPRI), IEEE TBC, 2018, Min X et al. [[PDF]]() [[Code]]()
 
 **Deep Learning Based Approaches**
+
 **(1) FR-IQA**
 *  Deep Neural Networks for No-Reference and Full-Reference Image Quality Assessment, IEEE TIP, 2017, Bosse S et al. [[PDF]]() [[Code]]()
 
