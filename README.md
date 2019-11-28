@@ -19,15 +19,15 @@ According to the availability of the whole or partial original undistorted image
 * VSNR: A Wavelet-Based Visual Signal-to-Noise Ratio for Natural Images (VSNR), IEEE TIP, 2007, Chandler D M et al. [[PDF]](https://www.researchgate.net/profile/Damon_Chandler/publication/3328654_VSNR_A_wavelet-based_Visual_Signal-to-Noise_Ratio_for_natural_images/links/56ea36d408aec8bc078178f9.pdf) [[Code]](https://github.com/sattarab/image-quality-tools/tree/master/metrix_mux/metrix/vsnr)
 
 **Traditional RR-IQA**
-* Reduced-reference Image Quality Assessment in Free-energy Principle and Sparse Representation (FSI), IEEE TMM, 2017, Liu Y et al. [[PDF]](https://kegu.netlify.com/PDF/Reduced-reference%20image%20quality%20assessment%20in%20free-energy%20principle%20and%20sparse%20representation.pdf) [[Code]]()
+* Reduced-reference Image Quality Assessment in Free-energy Principle and Sparse Representation (FSI), IEEE TMM, 2017, Liu Y et al. [[PDF]](https://kegu.netlify.com/PDF/Reduced-reference%20image%20quality%20assessment%20in%20free-energy%20principle%20and%20sparse%20representation.pdf) [[Code]](http://multimedia.sjtu.edu.cn/Assets/userfiles/sys_ea59f56d-4d4a-4775-8e55-a72700ff96de/files/FSI_pub.rar)
 
 **Traditional NR-IQA**
 
-* No-reference Image Quality Assessment in the Spatial Domain (BRISQUE), IEEE TIP, 2012, Mittal A et al. [[PDF]]() [[Code]]()
+* No-reference Image Quality Assessment in the Spatial Domain (BRISQUE), IEEE TIP, 2012, Mittal A et al. [[PDF]](https://live.ece.utexas.edu/publications/2012/TIP%20BRISQUE.pdf) [[Code]](https://live.ece.utexas.edu/research/Quality/index_algorithms.htm)
 
-* A Feature-Enriched Completely Blind Image Quality Evaluator (NIQE), IEEE TIP, 2015, Zhang L et al. [[PDF]]() [[Code]]()
+* A Feature-Enriched Completely Blind Image Quality Evaluator (IL-NIQE), IEEE TIP, 2015, Zhang L et al. [[PDF]](http://www4.comp.polyu.edu.hk/~cslzhang/paper/IL-NIQE.pdf) [[Code]](https://live.ece.utexas.edu/research/Quality/index_algorithms.htm)
 
-* Perceptual Quality Prediction on Authentically Distorted Images Using A Bag of Features Approach (FRIQUEE), Journal of Vision, 2017, Ghadiyaram D et al. [[PDF]]() [[Code]]()
+* Perceptual Quality Prediction on Authentically Distorted Images Using A Bag of Features Approach (FRIQUEE), Journal of Vision, 2017, Ghadiyaram D et al. [[PDF]](https://live.ece.utexas.edu/publications/2016/friquee_jov.pdf) [[Code]](https://live.ece.utexas.edu/research/Quality/index_algorithms.htm)
 
 * A Novel Blind Image Quality Assessment Method Based on Refined Natural Scene Statistics (NBIQA), IEEE ICIP, 2019, Ou F Z et al. [[PDF]]() [[Code]]()
 
