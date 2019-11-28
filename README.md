@@ -38,34 +38,34 @@ According to the availability of the whole or partial original undistorted image
 **Deep Learning Based Approaches**
 
 **(1) FR-IQA**
-*  Deep Neural Networks for No-Reference and Full-Reference Image Quality Assessment, IEEE TIP, 2017, Bosse S et al. [[PDF]]() [[Code]]()
+*  Deep Neural Networks for No-Reference and Full-Reference Image Quality Assessment, IEEE TIP, 2017, Bosse S et al. [[PDF]](https://arxiv.org/abs/1612.01697) [[Code]](https://github.com/Bobholamovic/CNN-FRIQA)
 
-* Deep Learning of Human Visual Sensitivity in Image Quality Assessment Framework (DeepQA), IEEE CVPR, 2017, Kim J et al. [[PDF]]() [[Code]]()
+* Deep Learning of Human Visual Sensitivity in Image Quality Assessment Framework (DeepQA), IEEE CVPR, 2017, Kim J et al. [[PDF]](https://zpascal.net/cvpr2017/Kim_Deep_Learning_of_CVPR_2017_paper.pdf) [[Code]](https://github.com/jongyookim/IQA_DeepQA_FR_release)
 
 * PieAPP: Perceptual Image-Error Assessment through Pairwise Preference (PieAPP), IEEE CVPR, 2018, Prashnani E et al. [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Prashnani_PieAPP_Perceptual_Image-Error_CVPR_2018_paper.pdf) [[Code]](https://github.com/prashnani/PerceptualImageError)
 
 **(2) NR-IQA**
-* Convolutional Neural Networks for No-Reference Image Quality Assessment (CNNIQA), IEEE CVPR, 2014, Kang L et al. [[PDF]]() [[Code]]()
+* Convolutional Neural Networks for No-Reference Image Quality Assessment (CNNIQA), IEEE CVPR, 2014, Kang L et al. [[PDF]](https://www.zpascal.net/cvpr2014/Kang_Convolutional_Neural_Networks_2014_CVPR_paper.pdf) [[Code]](https://github.com/lidq92/CNNIQA)
 
-* Visual Importance and Distortion Guided Deep Image Quality Assessment Framework (VIDGIQA), IEEE TMM, 2017, Guan J et al. [[PDF]](VIDGIQA) [[Code]]()
+* Visual Importance and Distortion Guided Deep Image Quality Assessment Framework (VIDGIQA), IEEE TMM, 2017, Guan J et al. [[PDF]](https://ieeexplore.ieee.org/document/7924311) [[Code]](https://github.com/GUAN3737/VIDGIQA)
 
-* A Deep Neural Network for Image Quality Assessment (gbIQA), IEEE ICIP, 2016, Bosse S et al. [[PDF]]() [[Code]]()
+* A Deep Neural Network for Image Quality Assessment (gbIQA), IEEE ICIP, 2016, Bosse S et al. [[PDF]](http://iphome.hhi.de/samek/pdf/BosICIP16.pdf) [[Code]](https://github.com/441711335/gbIQA)
 
-* SGDNet: An End-to-End Saliency-Guided Deep Neural Network for No-Reference Image Quality Assessment (SGDNet), ACM MM, 2019, Yang S et al. [[PDF]]() [[Code]]()
+* SGDNet: An End-to-End Saliency-Guided Deep Neural Network for No-Reference Image Quality Assessment (SGDNet), ACM MM, 2019, Yang S et al. [[PDF]](https://drive.google.com/file/d/1HWv1rqphZ4Cu7OzVI2s93xTe4u_a-lXU/view) [[Code]](https://github.com/ysyscool/SGDNet)
 
-* Fully Deep Blind Image Quality Predictor (BIECON), IEEE JSTSP, 2016, Kim J et al. [[PDF]]() [[Code]]()
+* Fully Deep Blind Image Quality Predictor (BIECON), IEEE JSTSP, 2016, Kim J et al. [[PDF]](https://ieeexplore.ieee.org/document/7782419) [[Code]](https://github.com/jongyookim/IQA_BIECON_release)
 
-* Saliency-Based Deep Convolutional Neural Network for No-Reference Image Quality Assessment (Saliency-CNN), Multimedia Tools and Applications, 2018, Jia S et al. [[PDF]]() [[Code]]()
+* Saliency-Based Deep Convolutional Neural Network for No-Reference Image Quality Assessment (Saliency-CNN), Multimedia Tools and Applications, 2018, Jia S et al. [[PDF]](https://link.springer.com/article/10.1007/s11042-017-5070-6) [[Code]](https://github.com/SenJia/Saliency-CNN-Image-Quality-Assessment)
 
-* Hallucinated-IQA: No-Reference Image Quality Assessment via Adversarial Learning (HIQA), IEEE CVPR, 2018, Lin K Y et al. [[PDF]]() [[Code]]()
+* Hallucinated-IQA: No-Reference Image Quality Assessment via Adversarial Learning (HIQA), IEEE CVPR, 2018, Lin K Y et al. [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lin_Hallucinated-IQA_No-Reference_Image_CVPR_2018_paper.pdf) [[Code]](https://github.com/kwanyeelin/HIQA)
 
-* Simultaneous Estimation of Image Quality and Distortion via Multi-Task Convolutional Neural Networks, IEEE ICIP, 2015, Kang L et al. [[PDF]]() [[Code]]()
+* Simultaneous Estimation of Image Quality and Distortion via Multi-Task Convolutional Neural Networks, IEEE ICIP, 2015, Kang L et al. [[PDF]](https://ieeexplore.ieee.org/document/7351311) [[Code]](https://github.com/lidq92/CNNIQAplusplus)
 
-* Blind Image Quality Assessment Using A Deep Bilinear Convolutional Neural Network (DBCNN), IEEE TCSVT, 2018, Zhang W et al. [[PDF]]() [[Code]]()
+* Blind Image Quality Assessment Using A Deep Bilinear Convolutional Neural Network (DBCNN), IEEE TCSVT, 2018, Zhang W et al. [[PDF]](https://ieeexplore.ieee.org/document/8576582) [[Code]](https://github.com/zwx8981/BIQA_Project)
 
-* End-to-End Blind Image Quality Assessment Using Deep Neural Networks (MEON), IEEE TIP, 2017, Ma K et al. [[PDF]]() [[Code]]()
+* End-to-End Blind Image Quality Assessment Using Deep Neural Networks (MEON), IEEE TIP, 2017, Ma K et al. [[PDF]](https://ece.uwaterloo.ca/~zduanmu/tip2018biqa/) [[Code]](https://ece.uwaterloo.ca/~zduanmu/tip2018biqa/)
 
-* dipIQ: Blind Image Quality Assessment by Learning-to-Rank Discriminable Image Pairs (), IEEE TIP, 2017, Ma K et al. [[PDF]]() [[Code]]()
+* dipIQ: Blind Image Quality Assessment by Learning-to-Rank Discriminable Image Pairs (), IEEE TIP, 2017, Ma K et al. [[PDF]](https://ece.uwaterloo.ca/~k29ma/papers/17_TIP_dipIQ.pdf) [[Code]](https://ece.uwaterloo.ca/~k29ma/codes/dipIQ.rar)
 
 **Databases**
 * [[LIVE Database]](https://live.ece.utexas.edu/research/Quality/subjective.htm)
