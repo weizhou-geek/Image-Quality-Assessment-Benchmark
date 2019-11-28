@@ -12,14 +12,14 @@ According to the availability of the whole or partial original undistorted image
 
 * Information Content Weighting for Perceptual Image Quality Assessment (IW-SSIM), IEEE TIP, 2010,  Wang Z et al. [[PDF]](https://ece.uwaterloo.ca/~z70wang/publications/IWSSIM.pdf) [[Code]](https://ece.uwaterloo.ca/~z70wang/research/iwssim/)
 
-* An Information Fidelity Criterion for Image Quality Assessment Using Natural Scene Statistics (IFC), IEEE TIP, 2005, Sheikh H R et al. [[PDF]](https://live.ece.utexas.edu/publications/2004/hrs_ieeetip_2004_infofidel.pdf) [[Code]]()
+* An Information Fidelity Criterion for Image Quality Assessment Using Natural Scene Statistics (IFC), IEEE TIP, 2005, Sheikh H R et al. [[PDF]](https://live.ece.utexas.edu/publications/2004/hrs_ieeetip_2004_infofidel.pdf) [[Code]](http://live.ece.utexas.edu/research/quality/ifcvec_release.zip)
 
-* Image Quality Assessment Based on A Degradation Model (NQM), IEEE TIP, 2000, Damera-Venkata N et al. [[PDF]]() [[Code]]()
+* Image Quality Assessment Based on A Degradation Model (NQM), IEEE TIP, 2000, Damera-Venkata N et al. [[PDF]](https://live.ece.utexas.edu/publications.php) [[Code]](http://users.ece.utexas.edu/~bevans/papers/2000/imageQuality/index.html)
 
-* VSNR: A Wavelet-Based Visual Signal-to-Noise Ratio for Natural Images (VSNR), IEEE TIP, 2007, Chandler D M et al. [[PDF]]() [[Code]]()
+* VSNR: A Wavelet-Based Visual Signal-to-Noise Ratio for Natural Images (VSNR), IEEE TIP, 2007, Chandler D M et al. [[PDF]](https://www.researchgate.net/profile/Damon_Chandler/publication/3328654_VSNR_A_wavelet-based_Visual_Signal-to-Noise_Ratio_for_natural_images/links/56ea36d408aec8bc078178f9.pdf) [[Code]](https://github.com/sattarab/image-quality-tools/tree/master/metrix_mux/metrix/vsnr)
 
 **Traditional RR-IQA**
-* Reduced-reference Image Quality Assessment in Free-energy Principle and Sparse Representation (FSI), IEEE TMM, 2017, Liu Y et al. [[PDF]]() [[Code]]()
+* Reduced-reference Image Quality Assessment in Free-energy Principle and Sparse Representation (FSI), IEEE TMM, 2017, Liu Y et al. [[PDF]](https://kegu.netlify.com/PDF/Reduced-reference%20image%20quality%20assessment%20in%20free-energy%20principle%20and%20sparse%20representation.pdf) [[Code]]()
 
 **Traditional NR-IQA**
 
