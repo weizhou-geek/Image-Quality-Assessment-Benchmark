@@ -31,11 +31,9 @@ According to the availability of the whole or partial original undistorted image
 
 * A Novel Blind Image Quality Assessment Method Based on Refined Natural Scene Statistics (NBIQA), IEEE ICIP, 2019, Ou F Z et al. [[PDF]](https://ieeexplore.ieee.org/document/8803047) [[Code]](https://github.com/GZHU-Image-Lab/NBIQA)
 
-* Blind Quality Assessment of Compressed Images via Pseudo Structural Similarity (PSS), IEEE ICME, 2016, Min X et al. [[PDF]]() [[Code]]()
+* Blind Quality Assessment of Compressed Images via Pseudo Structural Similarity (PSS), IEEE ICME, 2016, Min X et al. [[PDF]](https://kegu.netlify.com/PDF/Blind%20quality%20assessment%20of%20compressed%20images%20via%20pseudo%20structural%20similarity.pdf) [[Code]](https://drive.google.com/file/d/0BzIV-pviJ97tUnVoVFlpS1VRWFk/view)
 
-* Blind Quality Assessment Based on Pseudo-Reference Image (BPRI), IEEE TMM, 2017, Min X et al. [[PDF]]() [[Code]]()
-
-* Blind Image Quality Estimation via Distortion Aggravation (BMPRI), IEEE TBC, 2018, Min X et al. [[PDF]]() [[Code]]()
+* Blind Image Quality Estimation via Distortion Aggravation (BMPRI), IEEE TBC, 2018, Min X et al. [[PDF]](https://kegu.netlify.com/PDF/Blind%20image%20quality%20estimation%20via%20distortion%20aggravation.pdf) [[Code]](https://drive.google.com/file/d/1C_NxTLvnBOJDGhqqtixCkra0LIMP6loF/view)
 
 **Deep Learning Based Approaches**
 
