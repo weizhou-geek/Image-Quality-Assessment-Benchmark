@@ -44,6 +44,8 @@ According to the availability of the whole or partial original undistorted image
 
 * Deep Learning of Human Visual Sensitivity in Image Quality Assessment Framework (DeepQA), IEEE CVPR, 2017, Kim J et al. [[PDF]]() [[Code]]()
 
+* PieAPP: Perceptual Image-Error Assessment through Pairwise Preference (PieAPP), IEEE CVPR, 2018, Prashnani E et al. [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Prashnani_PieAPP_Perceptual_Image-Error_CVPR_2018_paper.pdf) [[Code]](https://github.com/prashnani/PerceptualImageError)
+
 **(2) NR-IQA**
 * Convolutional Neural Networks for No-Reference Image Quality Assessment (CNNIQA), IEEE CVPR, 2014, Kang L et al. [[PDF]]() [[Code]]()
 
