@@ -29,7 +29,7 @@ According to the availability of the whole or partial original undistorted image
 
 * Perceptual Quality Prediction on Authentically Distorted Images Using A Bag of Features Approach (FRIQUEE), Journal of Vision, 2017, Ghadiyaram D et al. [[PDF]](https://live.ece.utexas.edu/publications/2016/friquee_jov.pdf) [[Code]](https://live.ece.utexas.edu/research/Quality/index_algorithms.htm)
 
-* A Novel Blind Image Quality Assessment Method Based on Refined Natural Scene Statistics (NBIQA), IEEE ICIP, 2019, Ou F Z et al. [[PDF]]() [[Code]]()
+* A Novel Blind Image Quality Assessment Method Based on Refined Natural Scene Statistics (NBIQA), IEEE ICIP, 2019, Ou F Z et al. [[PDF]](https://ieeexplore.ieee.org/document/8803047) [[Code]](https://github.com/GZHU-Image-Lab/NBIQA)
 
 * Blind Quality Assessment of Compressed Images via Pseudo Structural Similarity (PSS), IEEE ICME, 2016, Min X et al. [[PDF]]() [[Code]]()
 
