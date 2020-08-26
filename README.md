@@ -68,6 +68,7 @@ According to the availability of the whole or partial original undistorted image
 * dipIQ: Blind Image Quality Assessment by Learning-to-Rank Discriminable Image Pairs (dipIQ), IEEE TIP, 2017, Ma K et al. [[PDF]](https://ece.uwaterloo.ca/~k29ma/papers/17_TIP_dipIQ.pdf) [[Code]](https://ece.uwaterloo.ca/~k29ma/codes/dipIQ.rar)
 
 **Databases**
+
 Synthetic distortion
 * [[LIVE Database]](https://live.ece.utexas.edu/research/Quality/subjective.htm)
 * [[CSIQ Database]](http://vision.eng.shizuoka.ac.jp/mod/page/view.php?id=23)
