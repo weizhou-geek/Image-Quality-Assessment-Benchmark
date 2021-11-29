@@ -43,6 +43,8 @@ According to the availability of the whole or partial original undistorted image
 * Deep Learning of Human Visual Sensitivity in Image Quality Assessment Framework (DeepQA), IEEE CVPR, 2017, Kim J et al. [[PDF]](https://zpascal.net/cvpr2017/Kim_Deep_Learning_of_CVPR_2017_paper.pdf) [[Code]](https://github.com/jongyookim/IQA_DeepQA_FR_release)
 
 * PieAPP: Perceptual Image-Error Assessment through Pairwise Preference (PieAPP), IEEE CVPR, 2018, Prashnani E et al. [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Prashnani_PieAPP_Perceptual_Image-Error_CVPR_2018_paper.pdf) [[Code]](https://github.com/prashnani/PerceptualImageError) [[Project]](http://civc.ucsb.edu/graphics/Papers/CVPR2018_PieAPP/)
+* DISTS: Image Quality Assessment: Unifying Structure and Texture Similarity, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021. [[code]](https://github.com/dingkeyan93/DISTS). [[pdf]](https://arxiv.org/pdf/2004.07728.pdf)
+* LPIPS: The Unreasonable Effectiveness of Deep Features as a Perceptual Metric, CVPR 2018, [[code]](https://github.com/richzhang/PerceptualSimilarity) [[pdf]](https://arxiv.org/pdf/1801.03924.pdf)
 
 **(2) NR-IQA**
 * Convolutional Neural Networks for No-Reference Image Quality Assessment (CNNIQA), IEEE CVPR, 2014, Kang L et al. [[PDF]](https://www.zpascal.net/cvpr2014/Kang_Convolutional_Neural_Networks_2014_CVPR_paper.pdf) [[Code]](https://github.com/lidq92/CNNIQA)
