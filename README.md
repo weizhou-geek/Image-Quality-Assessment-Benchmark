@@ -44,7 +44,7 @@ According to the availability of the whole or partial original undistorted image
 
 * PieAPP: Perceptual Image-Error Assessment through Pairwise Preference (PieAPP), IEEE CVPR, 2018, Prashnani E et al. [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Prashnani_PieAPP_Perceptual_Image-Error_CVPR_2018_paper.pdf) [[Code]](https://github.com/prashnani/PerceptualImageError) [[Project]](http://civc.ucsb.edu/graphics/Papers/CVPR2018_PieAPP/)
 
-* The Unreasonable Effectiveness of Deep Features as a Perceptual Metric (LPIPS), CVPR 2018, Zhang R et al. [[pdf]](https://arxiv.org/pdf/1801.03924.pdf) [[code]](https://github.com/richzhang/PerceptualSimilarity)
+* The Unreasonable Effectiveness of Deep Features as a Perceptual Metric (LPIPS), IEEE CVPR, 2018, Zhang R et al. [[pdf]](https://arxiv.org/pdf/1801.03924.pdf) [[code]](https://github.com/richzhang/PerceptualSimilarity)
 
 * Image Quality Assessment: Unifying Structure and Texture Similarity (DISTS), IEEE TPAMI, 2021, Ding K et al. [[pdf]](https://arxiv.org/pdf/2004.07728.pdf) [[code]](https://github.com/dingkeyan93/DISTS)
 
