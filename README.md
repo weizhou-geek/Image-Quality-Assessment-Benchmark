@@ -44,9 +44,9 @@ According to the availability of the whole or partial original undistorted image
 
 * PieAPP: Perceptual Image-Error Assessment through Pairwise Preference (PieAPP), IEEE CVPR, 2018, Prashnani E et al. [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Prashnani_PieAPP_Perceptual_Image-Error_CVPR_2018_paper.pdf) [[Code]](https://github.com/prashnani/PerceptualImageError) [[Project]](http://civc.ucsb.edu/graphics/Papers/CVPR2018_PieAPP/)
 
-* The Unreasonable Effectiveness of Deep Features as a Perceptual Metric (LPIPS), IEEE CVPR, 2018, Zhang R et al. [[pdf]](https://arxiv.org/pdf/1801.03924.pdf) [[code]](https://github.com/richzhang/PerceptualSimilarity)
+* The Unreasonable Effectiveness of Deep Features as a Perceptual Metric (LPIPS), IEEE CVPR, 2018, Zhang R et al. [[PDF]](https://arxiv.org/pdf/1801.03924.pdf) [[Code]](https://github.com/richzhang/PerceptualSimilarity)
 
-* Image Quality Assessment: Unifying Structure and Texture Similarity (DISTS), IEEE TPAMI, 2021, Ding K et al. [[pdf]](https://arxiv.org/pdf/2004.07728.pdf) [[code]](https://github.com/dingkeyan93/DISTS)
+* Image Quality Assessment: Unifying Structure and Texture Similarity (DISTS), IEEE TPAMI, 2021, Ding K et al. [[PDF]](https://arxiv.org/pdf/2004.07728.pdf) [[Code]](https://github.com/dingkeyan93/DISTS)
 
 **(2) NR-IQA**
 * Convolutional Neural Networks for No-Reference Image Quality Assessment (CNNIQA), IEEE CVPR, 2014, Kang L et al. [[PDF]](https://www.zpascal.net/cvpr2014/Kang_Convolutional_Neural_Networks_2014_CVPR_paper.pdf) [[Code]](https://github.com/lidq92/CNNIQA)
