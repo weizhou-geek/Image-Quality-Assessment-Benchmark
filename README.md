@@ -48,6 +48,8 @@ According to the availability of the whole or partial original undistorted image
 
 * Image Quality Assessment: Unifying Structure and Texture Similarity (DISTS), IEEE TPAMI, 2021, Ding K et al. [[PDF]](https://arxiv.org/pdf/2004.07728.pdf) [[Code]](https://github.com/dingkeyan93/DISTS)
 
+* JLD: Perceptual Distance Through A Jacobian Lens, arXiv preprint, 2026, Saini S et al. [[PDF]](https://arxiv.org/pdf/2610.05967) [[Code]](https://github.com/shreshthsaini/jld) [[Project]](https://shreshthsaini.github.io/jld/)
+
 **(2) NR-IQA**
 * Convolutional Neural Networks for No-Reference Image Quality Assessment (CNNIQA), IEEE CVPR, 2014, Kang L et al. [[PDF]](https://www.zpascal.net/cvpr2014/Kang_Convolutional_Neural_Networks_2014_CVPR_paper.pdf) [[Code]](https://github.com/lidq92/CNNIQA)
 
